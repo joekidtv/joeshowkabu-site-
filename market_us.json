@@ -2,7 +2,7 @@
   {
     "name": "NYダウ(NY Dow Jones)",
     "value": "53,414.25",
-    "change": "-271.86",
+    "change": "-271.85",
     "changePercent": "-0.51%",
     "updated": "2026-09-05 (自動取得)",
     "sourceLabel": "Yahoo Finance",
@@ -20,7 +20,7 @@
   {
     "name": "NASDAQ",
     "value": "26,506.99",
-    "change": "-77.07",
+    "change": "-77.11",
     "changePercent": "-0.29%",
     "updated": "2026-09-05 (自動取得)",
     "sourceLabel": "Yahoo Finance",
@@ -28,10 +28,10 @@
   },
   {
     "name": "米国10年債券利回り",
-    "value": "4.672%",
-    "change": "+0.008",
+    "value": "4.784%",
+    "change": "+0.000",
     "changePercent": "",
-    "updated": "2026-08-28 (自動取得)",
+    "updated": "2026-09-05 (自動取得)",
     "sourceLabel": "Yahoo Finance",
     "sourceUrl": "https://finance.yahoo.com/quote/%5ETNX/"
   }
